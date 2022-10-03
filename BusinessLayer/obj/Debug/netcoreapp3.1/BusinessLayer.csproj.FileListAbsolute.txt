@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\CommanLayer.dll
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\RepositryLayer.dll
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\RepositryLayer.pdb
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\bin\Debug\netcoreapp3.1\CommanLayer.pdb
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\HP\OneDrive\Desktop\CFP\FundooNodeApplication\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
